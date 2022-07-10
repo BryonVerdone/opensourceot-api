@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_step_steps",
+  "info": {
+    "displayName": "step",
+    "icon": "align-center"
+  },
+  "options": {},
+  "attributes": {
+    "step": {
+      "type": "string"
+    }
+  }
+}
